@@ -1,4 +1,4 @@
-# Anyashree-S-M
+
 <h1 >Hey there!  I'm Anyashree Somanath Majalikar</h1>
 <h3 >💻 MCA Student | 🌐 Web Development Enthusiast | 🛠️ Full Stack Developer in Progress</h3>
 
