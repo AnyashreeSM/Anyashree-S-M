@@ -1,6 +1,6 @@
 # Anyashree-S-M
-<h1 align="center">Hey there! 👋 I'm Anyashree Somanath Majalikar</h1>
-<h3 align="center">💻 MCA Student | 🌐 Web Development Enthusiast | 🛠️ Full Stack Developer in Progress</h3>
+<h1 >Hey there!  I'm Anyashree Somanath Majalikar</h1>
+<h3 >💻 MCA Student | 🌐 Web Development Enthusiast | 🛠️ Full Stack Developer in Progress</h3>
 
 ---
 
@@ -19,7 +19,7 @@ I'm on a journey to become a **Full Stack Developer**, starting from frontend de
 - **Master of Computer Applications (MCA)**  
   *St. Aloysius (Deemed to be University)* — *Aug 2024 – Sept 2026*
 
-- **Bachelor of Computer Applications (BCA)**  
+- **Bachelor of Science in CS (BSC)**  
   *Mangalore University* — *Nov 2021 – July 2024* | CGPA: **8.87**
 
 ---
